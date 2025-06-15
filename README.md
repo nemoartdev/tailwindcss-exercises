@@ -2,4 +2,4 @@
 
 Este es un proyecto de Vite configurado con Tailwind CSS.
 
-![Clic aquí para ver la aplicación de estilos](https://nemoartdev.github.io/tailwindcss-exercises/)
+[Clic aquí para ver la aplicación de estilos](https://nemoartdev.github.io/tailwindcss-exercises/)
