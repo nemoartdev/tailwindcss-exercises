@@ -1,9 +1,5 @@
-# Vite + Tailwind CSS Project
+# Proyecto Vite + Tailwind CSS
 
-This is a Vite project configured with Tailwind CSS.
+Este es un proyecto de Vite configurado con Tailwind CSS.
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies
-3. Start the development server
+![Clic aquí para ver la aplicación de estilos](https://nemoartdev.github.io/tailwindcss-exercises/)
